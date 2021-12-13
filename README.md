@@ -4,7 +4,12 @@
 ```
 yarn install
 ```
-
+```
+yarn add semantic-ui-css
+```
+```
+yarn add firebase
+```
 ### Compiles and hot-reloads for development
 ```
 yarn serve
